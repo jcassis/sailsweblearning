@@ -1,0 +1,18 @@
+{
+  "name": "sailsweblearning",
+  "description": "a Sails application",
+  "main": "app.js",
+  "authors": [
+    "jivago.assis"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jcassis/sailsweblearning",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor",
+    "test",
+    "tests"
+  ]
+}
